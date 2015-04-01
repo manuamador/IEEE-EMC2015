@@ -7,7 +7,7 @@ Philippe Besnier IETR-UMR CNRS 6164, INSA Rennes, philippe.besnier@insa-rennes.f
 
 presented at the *Joint IEEE International Symposium on Electromagnetic Compatibility and EMC Europe, Dresden 2015.*
 
-###Package needed:
+###Packages needed:
 - Julia 0.3+ andthe follwing packages: PyPlot, NPZ, Grid
 - Python 2.7+ and Matplotlib, Numpy
 
