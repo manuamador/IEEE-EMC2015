@@ -10,7 +10,7 @@ This repository allows to reproduce the results presented in the article.
 Comments and suggestions are welcomed.
 
 ###Packages needed:
-- Julia 0.3+ andthe follwing packages: PyPlot, NPZ, Grid
-- Python 2.7+ and Matplotlib, Numpy
+- Julia 0.3+ and the follwing packages: PyPlot, NPZ, Grid.
+- Python 2.7+ and Matplotlib, Numpy.
 
 
