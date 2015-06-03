@@ -7,6 +7,9 @@ This repository contains the source codes used to produce the figures in the art
 presented at the *Joint IEEE International Symposium on Electromagnetic Compatibility and EMC Europe, Dresden 2015.*
 
 This repository allows to reproduce the results presented in the article.
+Basically, the numerical model based on a modal expansion of the electric field in a rectangular cavity is given. This model allows to compute the electric field in the volume of the cavity for a given transmitter position.
+
+The programs included produce the different figures of the article and some extra programs gives more latitude to anyone who would like to experiment with the model developed in the article.
 Comments and suggestions are welcomed.
 
 ###Packages needed:
