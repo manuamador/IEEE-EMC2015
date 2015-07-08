@@ -18,7 +18,7 @@ Comments and suggestions are welcomed.
 
 
 
-Source stirring animation: _./code/animation_sourcestirring.jl_
+Source stirring animation: `./code/animation_sourcestirring.jl`
 
 [![ScreenShot](http://img.youtube.com/vi/84I4xAoDW-8/0.jpg)](http://youtu.be/84I4xAoDW-8)
 
