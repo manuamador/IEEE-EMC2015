@@ -18,16 +18,9 @@ const d=8.7#4.84
 const f0=40e6
 const f1=1000e6
 
-#rf=.01
-#nf=int(1/log(1+rf)*log(f1/f0))
-#f=zeros(nf)
-#for i=1:nf
-#  f[i]=f0*(1+rf)^i
-#end
-
 const df=1e6
-const nf=1#int((f1-f0)/df)+1
-const f=511e6#linspace(f0,f1,nf)#array([20e6,40e6,45e6,56e6,65e6])#linspace(20e6,.3e9,281)#linspace(20e6,3e8,1121)
+const nf=int((f1-f0)/df)+1
+const f=linspace(f0,f1,nf)#array([20e6,40e6,45e6,56e6,65e6])#linspace(20e6,.3e9,281)#linspace(20e6,3e8,1121)
 const V=a*b*d
 const Q4=16*pi^2*V*f.^3/(1*c^3)
 const Q1=3*V./(2*1*(2./sqrt(2*pi*f.*mur*mu0*1*1e5)))/200
