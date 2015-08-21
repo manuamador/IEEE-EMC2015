@@ -1,5 +1,5 @@
 # IEEE-EMC2015
-This repository contains the [presentation slides](./Presentation_IEEE_EMC15.pdf "Slides"), the source codes used to produce the figures in the article:
+This repository contains the [presentation slides](https://raw.githubusercontent.com/manuamador/IEEE-EMC2015/master/Presentation_IEEE_EMC15.pdf "Slides"), the source codes used to produce the figures in the article:
 ### *Source Stirring Analysis in a Reverberation Chamber Based on Modal Expansion of the Electric Field*
 - Emmanuel Amador, EDF Lab, LME, emmanuel.amador@edf.fr
 - Philippe Besnier IETR-UMR CNRS 6164, INSA Rennes, philippe.besnier@insa-rennes.fr
